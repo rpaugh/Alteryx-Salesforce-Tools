@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Configuration>
+	<Properties>
+		<MetaInfo>
+			<Icon>Salesforce Session Id\Salesforce Session IdIcon.png</Icon>
+			<Name>Salesforce Session Id</Name>
+			<CategoryName>Connectors</CategoryName>
+			<ToolVersion>1.0.0</ToolVersion>
+			<Author>Rick Paugh</Author>
+			<Description>Get a new Salesforce session Id.</Description>
+		</MetaInfo>
+	</Properties>
+</Configuration>
